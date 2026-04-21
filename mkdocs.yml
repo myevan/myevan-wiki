@@ -59,7 +59,8 @@ nav:
                 - "remote desktop": windows_remote_desktop_user_deny.md
             - "sync": windows_sync_robocopy.md
             - "pkg": windows_package_mgr_choco.md            
-            - "wsl2": windows_wsl2_env_path_windows.md            
+            - "wsl2": windows_wsl2_env_path_windows.md
+            - "ssh key": windows_git_bash_ssh_key.md
     - "doc":
         - "mkdocs": 
             - "windows": windows_python_mkdocs.md

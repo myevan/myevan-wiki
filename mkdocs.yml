@@ -24,13 +24,15 @@ nav:
             - "vs code": mac_vs_code.md
             - "root": mac_root_enable.md
             - "hostname": mac_terminal_hostname.md
-        - "ubuntu": 
+        - "ubuntu":
             - "python": ubuntu_python_pyenv.md
             - "docker": ubuntu_docker.md
             - "nodejs": ubuntu_node.js.md
             - "sudo": ubuntu_sudo.md
             - "ip": ubuntu_setup_ip.md
             - "time": ubuntu_local_time_zone.md
+            - "ssh key": linux_ssh_key.md
+            - "bash profile": linux_bash_profile.md
         - "synology":
             - "ubuntu":
                 - "dedup": synology_ubuntu_dedup.md

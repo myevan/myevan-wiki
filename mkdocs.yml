@@ -61,6 +61,9 @@ nav:
             - "pkg": windows_package_mgr_choco.md            
             - "wsl2": windows_wsl2_env_path_windows.md
             - "ssh key": windows_git_bash_ssh_key.md
+            - "ssh agent service": windows_openssh_agent_service.md
+            - "claude setup": windows_claude_setup.md
+            - "claude batch ssh": windows_claude_git_bash_batch_ssh_agent.md
             - "copy paste": windows_git_bash_copy_paste.md
     - "doc":
         - "mkdocs": 

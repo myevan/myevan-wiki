@@ -66,6 +66,7 @@ nav:
             - "claude batch ssh": windows_claude_git_bash_batch_ssh_agent.md
             - "copy paste": windows_git_bash_copy_paste.md
             - "wsl": windows_git_bash_wsl.md
+            - "device guard": windows_device_guard_code_signing.md
     - "doc":
         - "mkdocs": 
             - "windows": windows_python_mkdocs.md

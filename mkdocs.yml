@@ -88,6 +88,7 @@ nav:
         - "helix":
             - "linux":
                 - "daemon": helix_linux_perforce_daemon.md
+                - "client install": helix_linux_p4_client_installation.md
                 - "backup": helix_linux_perforce_backup.md
                 - "restore": helix_linux_perforce_restore.md
             - "windows":

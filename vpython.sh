@@ -1,2 +1,2 @@
-THIS_DIR=$(dirname $0)
-$THIS_DIR/venv.sh python $*
+THIS_DIR=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+"$THIS_DIR/venv.sh" python "$@"
